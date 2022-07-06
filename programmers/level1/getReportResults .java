@@ -1,4 +1,4 @@
-class Solution {
+class getReportResults {
     public int solution(String s) {
         String[] answer = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
