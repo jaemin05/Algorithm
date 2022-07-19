@@ -7,7 +7,7 @@ class Solution {
         Arrays.sort(completion);
 
         for(i=0; i<completion.length; i++) {
-            if(!completion[i].equals(participant)) {
+            if(!completion[i].equals(participant[i])) {
                 break;
             }
         }
