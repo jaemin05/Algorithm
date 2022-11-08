@@ -1,4 +1,4 @@
-# [Gold IV] 벽 부수고 이동하기 - 2206 
+# [Gold III] 벽 부수고 이동하기 - 2206 
 
 [문제 링크](https://www.acmicpc.net/problem/2206) 
 
